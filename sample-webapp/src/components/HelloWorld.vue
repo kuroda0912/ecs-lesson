@@ -5,7 +5,7 @@
   </div>
 </template>
 
-<script  type="module" >
+<script >
 import axios from 'axios'
 
 export default {
